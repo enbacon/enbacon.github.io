@@ -1,11 +1,11 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
+    "title": "Erin N. Bacon",
+    "name": "enbacon.github.io",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Portfolio featuring projects created by Erin Bacon",
     "keywords": [
         "css",
         "sass",
@@ -14,7 +14,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "homepage": "https://enbacon.github.io",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
         "email": "feedback@startbootstrap.com"
