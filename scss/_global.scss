@@ -40,12 +40,16 @@ h3 {
 img {
   border: 1.5px solid black;
   box-sizing: border-box;
-  max-width: 40vw;
+  max-width: 30vw;
 }
 
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
+}
+
+.screentShot {
+  display: flex;
 }
 
 .subheading {
