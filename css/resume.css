@@ -42,6 +42,12 @@ h3 {
   font-size: 2rem;
 }
 
+img {
+  border: 1.5px solid black;
+  box-sizing: border-box;
+  max-width: 45vh;
+}
+
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
