@@ -45,7 +45,7 @@ h3 {
 img {
   border: 1.5px solid black;
   box-sizing: border-box;
-  max-width: 45vh;
+  max-width: 40vw;
 }
 
 p.lead {
