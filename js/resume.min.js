@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Erin N. Bacon v5.0.8 (https://enbacon.github.io)
- * Copyright 2013-2020 Start Bootstrap
+ * Copyright 2013-2021 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/enbacon.github.io/blob/master/LICENSE)
  */
 
